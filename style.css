@@ -1,0 +1,143 @@
+body {
+    background-color: bisque;
+}
+
+section {
+    margin-top: 15px ;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+header {
+    text-align: center;
+    font-size: 4em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+hr {
+    border: 2px solid goldenrod;
+}
+
+nav {
+    float: left;
+    width: 30%;
+    height: 600px; 
+    background: rosybrown;
+    padding: 20px;
+}
+
+h1{
+    font-size: 45px;
+    font-family: cursive;
+}
+.aside {
+    float: left;
+    padding: 20px;
+    width: 60%;
+    background-color: lightgreen;
+    height: 600px;
+}
+
+form {
+    text-align: center;
+    font-size: 15px;
+    font-family:cursive;
+}
+
+input {
+    border-radius: 10px;
+    width: 50%;
+    height: 20px;
+    text-align: center;
+    font-family: cursive;
+}
+
+#male {
+    width: auto;
+}
+
+#female {
+    width: auto;
+}
+
+select {
+    border-radius: 10px;
+    width: 50%;
+    height: 30px;
+    text-align: center;
+    font-family: cursive;
+}
+
+button {
+    border-radius: 10px;
+    width: 10px solid;
+    height: 30px;
+    text-align: center;
+    font-family: cursive;
+    background-color: lightseagreen;
+}
+    
+#signupline {
+    border: 2px solid royalblue;
+}
+
+.social-signup {
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.fa-facebook {
+    color: blue;
+    width: 20px;
+    font-size: 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    display: inline-block;
+    word-spacing: 20px;
+}
+
+.fa-twitter {
+    color: white;
+    width: 20px;
+    font-size: 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    display: inline-block;
+    word-spacing: 20px;
+}
+
+.fa-google {
+    color: red;
+    width: 20px;
+    margin: 10px;
+    font-size: 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    display: inline-block;
+    word-spacing: 20px;
+}
+
+.fa-linkedin {
+    color: blue;
+    width: 20px;
+    font-size: 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    display: inline-block;
+    word-spacing: 20px;
+}
+footer {
+    background-color:  tomato;
+    text-align: center;
+    color: white;
+    width: 100%;
+    
+}
+
+.successmsg {
+    margin-top: 100px ;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+}
